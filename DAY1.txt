@@ -1,0 +1,8 @@
+First day topic covered 
+  * Hub
+  * Switch
+  * Ip Address
+  * Mac Address
+  * Router
+  * How to get Mac address of the destination with the help of the SWitch and the router
+  

@@ -1,0 +1,7 @@
+ Day 2
+  * What is version controll system
+  * what is git ,github 
+  * why git is power
+  * what is difference between centralized and distributed VCS
+  * How to use git effectively
+  
