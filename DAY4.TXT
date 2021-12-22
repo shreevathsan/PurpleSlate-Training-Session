@@ -1,0 +1,5 @@
+Linux
+* We learnt about the basic of the linux command
+* how to copy onr file form onr place to another 
+* how to move one file from one place to another
+* how to create a new folder and playing with that
