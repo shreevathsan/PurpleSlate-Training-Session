@@ -1,5 +1,5 @@
 First day topic covered 
-  * Hub
+  * Hubs
   * Switch
   * Ip Address
   * Mac Address
